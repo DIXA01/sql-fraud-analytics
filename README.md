@@ -45,10 +45,10 @@ The objective of this project is to:
 - GitHub — version control & portfolio presentation  
 - Tableau (planned) — data visualisation  
 
-📊 Analysis Performed (SQL)
+ Analysis Performed (SQL)
 
 All SQL queries are contained in a single file:  
-📄 `fraud_analysis.sql`
+ `fraud_analysis.sql`
 
  Key analyses include:
 1. Total number of transactions  
@@ -63,4 +63,4 @@ All SQL queries are contained in a single file:
 
 Each query is documented with comments explaining its business purpose.
 
- 📁 Project Structure
+  Project Structure
