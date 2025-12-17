@@ -1,0 +1,6 @@
+merchant_category,total_transactions,fraud_transactions,fraud_rate
+travel,59922,1388,0.0232
+electronics,60220,1357,0.0225
+fashion,59801,1340,0.0224
+gaming,59839,1295,0.0216
+grocery,59913,1232,0.0206
